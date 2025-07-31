@@ -2,11 +2,9 @@
 
 Responsive e-commerce template containing catalog, filters, product page, shopping cart and other elements of the online store. Built with [UIkit](https://getuikit.com).
 
-Demo: https://chekromul.github.io/uikit-ecommerce-template
+Also you can see `Sass` port of this theme: [insionCEO/HTML-e-commerce-Template](https://github.com/insionCEO/HTML-e-commerce-Template) 
 
-Also you can see `Sass` port of this theme: [vkovic/uikit-computer-store-template](https://github.com/insionCEO/HTML-e-commerce-Template) 
-
-[![UIkit E-commerce Template](https://github.com/insionCEO/HTML-e-commerce-Template/gh-pages/images/preview.png "UIkit E-commerce Template")](https://raw.githubusercontent.com/chekromul/HTML-e-commerce-Template/gh-pages/images/preview.png "UIkit E-commerce Template")
+[![UIkit E-commerce Template](https://github.com/insionCEO/HTML-e-commerce-Template/gh-pages/images/preview.png "UIkit E-commerce Template")](https://raw.githubusercontent.com/insionCEO/HTML-e-commerce-Template/gh-pages/images/preview.png "UIkit E-commerce Template")
 
 ## Overview
 
