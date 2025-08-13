@@ -71,4 +71,4 @@ $ gulp
 
 ## License
 
-This software is licensed under the MIT License © [Roman Chekurov](https://github.com/chekromul)
+**Telegram**: [@insionCEO](https://t.me/insionCEO)
